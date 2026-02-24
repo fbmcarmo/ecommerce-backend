@@ -213,7 +213,7 @@ Cada dev deve entregar **CREATE + READ com MOCK**, seguindo:
 
 ---
 
-# ✅ Como entregar (PR para o dono)
+# ✅ Como entregar (PR para o líder)
 ### 1) Commit
 ```bash
 git add .
