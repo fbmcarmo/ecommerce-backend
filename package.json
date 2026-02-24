@@ -6,7 +6,7 @@
   "scripts": {
     "dev": "nodemon src/index.js",
     "start": "node src/index.js",
-    "test": "jest --runInBand",
+    "test": "jest",
     "prisma:generate": "prisma generate",
     "prisma:migrate": "prisma migrate dev"
   },
@@ -26,7 +26,7 @@
     "zod": "^4.3.6"
   },
   "devDependencies": {
-    "jest": "^19.0.2",
+    "jest": "^30.2.0",
     "nodemon": "^3.1.14",
     "prisma": "^6.19.2",
     "supertest": "^7.2.2"
